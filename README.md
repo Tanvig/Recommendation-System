@@ -6,7 +6,7 @@ Check out the web link for demo: https://movie-recommendor.herokuapp.com/
 
 ## File Description:
 
-Procfile - This is to declare the process types in the app. It specifies the commands to be executed when the app is run on the server. This file is necessary for Heroku platform.
+[Procfile](Procfile) - This is to declare the process types in the app. It specifies the commands to be executed when the app is run on the server. This file is necessary for Heroku platform.
 
 [app.yaml](app.yaml) - Here, it is used to define the runtime environment. Use it if you're deploying on GCP.
 
