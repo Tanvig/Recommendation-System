@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-An end-to-end Hplywood Movie Recommendation System deployed on Heroku platform using Python language and Flask web framework.
+An end-to-end Hollywood Movie Recommendation System deployed on Heroku platform using Python language and Flask web framework.
 
 Check out the web link for demo: https://movie-recommendor.herokuapp.com/
 
